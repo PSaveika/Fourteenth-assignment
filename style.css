@@ -78,8 +78,11 @@ th{
     color: #121212;
     height: 50px;
 }
+th:nth-of-type(even) {
+    background-color: #e7ae37;
+}
 td {
-    border: 1px solid #ffc211;
+    border: 1px solid #e7ae37;
     height: 50px;
     padding-left: 15px;
     font-weight: 500;
