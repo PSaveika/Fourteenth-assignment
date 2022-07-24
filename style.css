@@ -91,19 +91,3 @@ td {
     height: 50px;
     padding-left: 15px;
 }
-
-p {
-    color: #121212;
-}
-
-a {
-    text-decoration: none;
-    color: #dc143c;
-    font-family: "Helvetica";
-    font-weight: bold;
-    font-size: 20px;
-    transition: 1s ease;
-}
-a:hover {
-    color: #a3112e;
-}
